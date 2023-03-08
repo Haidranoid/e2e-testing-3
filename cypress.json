@@ -1,0 +1,7 @@
+{
+  "baseUrl": "http://localhost:4200",
+  "supportFile": "cypress/support/e2e.ts",
+  "ignoreTestFiles": "**/examples/*",
+  "viewportHeight": 1000,
+  "viewportWidth": 1920
+}
